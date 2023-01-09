@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @kvizhard777
 - 💻 I’m interested in Frontend Developing
-- ⚙️ Technologies: HTML, CSS, SCSS, SASS, JavaScript
+- ⚙️ Technologies: HTML, CSS, SCSS, SASS, Bootstrap5, TailwindCSS
 - 📫 How to reach me: Telegram - https://t.me/cyberadmin000
